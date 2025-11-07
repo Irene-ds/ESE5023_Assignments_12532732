@@ -1,0 +1,9 @@
+Please follow the requirements of submitting your homework. One pdf file and .ipynb file. You should transform the word file to pdf.
+
+(+3) Good visualization and the process of the answers, but limited comments of the code. Try to write more comments to each step, especially for the important and difficult steps.
+
+1. (-0) 
+2. (-0) 
+3 (-0)
+4.3 (-2) Please follow the requirements of the problem 4.3. That is, you should describe the visualization result. word and ipynb files have not provided such a description.
+5. (-0)
