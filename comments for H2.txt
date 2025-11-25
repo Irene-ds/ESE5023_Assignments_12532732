@@ -1,0 +1,9 @@
+I recommend you  to upload the data in the project repository, which may help to run the code.
+For instance, you should use the path within the project directory rather than referencing your local files.
+
+1. (-0) 
+2. (-0)
+3 (+4)
+3.1 (+2) Good preprocessing the data, for example, for handing the missing data. It'd better to handle abnormal values.
+3.2 (-0)
+3.3 (+2) Good the use of statistical  analysis!
