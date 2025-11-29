@@ -1,0 +1,14 @@
+Kindly make sure to upload a PDF file next time.
+
+1.1 (-0) 
+1.2 (-4) 1. Please use np.interp to ensure that the visualization matches the standard reference. Currently, there is no trend curve shown in the plot. 2. The plotted time series is incorrect. Please refer to the official reference figure for the correct version. 3. No description
+
+1.3 (-1) The result appears to be incorrect because some time points in the deseasonalized series are NaN, yet they are still plotted in the figure. Please contact me if there is any disagreement.
+
+The reference version is:
+location_monthly_climatology =point_series .groupby("time.month").mean(dim="time")
+deseasonalized_methane =point_series .groupby("time.month") - location_monthly_climatology
+
+2.1 (-0) 
+2.2 (-5) The result is incorrect and does not match the reference figure. The issue might be related to data slicing. You may want to use Nino_34 = Nino.sel(lon=slice(190, 240), lat=slice(-5, 5)).
+3. (-0) 
